@@ -1,0 +1,1 @@
+{"name": "markdown-slide-presenter", "version": "1.0.0", "description": "Convert markdown files into slide presentations in the browser", "main": "index.js", "scripts": {"start": "node index.js", "test": "echo \"No tests yet\""}, "license": "MIT"}
